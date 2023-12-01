@@ -2,7 +2,7 @@
 const Container = ( {children} ) => {
   return (
     <div className=".ui-container">{children}</div>
-  )
+  );
 }
 
-export default Container
+export default Container;
